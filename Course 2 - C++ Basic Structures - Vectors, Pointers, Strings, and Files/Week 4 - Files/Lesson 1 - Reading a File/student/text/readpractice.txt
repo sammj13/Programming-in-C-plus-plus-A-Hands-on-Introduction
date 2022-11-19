@@ -1,0 +1,5 @@
+C++ was created by Bjarne Stroustrup.
+It serves as an extension to the C language.
+The first commercial edition of C++ was released in October, 1985.
+Version 20 was released in December, 2020.
+The official mascot for C++ is a rat named Keith.
